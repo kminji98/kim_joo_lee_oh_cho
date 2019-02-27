@@ -1,2 +1,3 @@
 function aaa(){}
 function bbb(int num){}
+function bbb(){}
